@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Gowrishankar
 
-<!--
-**GowrishankarSMenon/GowrishankarSMenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- B.Tech Computer Science student at CUSAT
+- Interested in AI/ML, Reinforcement Learning, OCR systems, and backend engineering
+- Passionate about building intelligent real-world applications
 
-Here are some ideas to get you started:
+## Tech Stack
+Python • FastAPI • TensorFlow • Redis • MongoDB • Unity ML-Agents • AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- MedScan AI
+- Rocket RL Simulation
+- Movie Review ML Analyzer
+
+## Achievements
+- Winner — HACK FOR TOMORROW 2.0
+- Winner — CODEQUEST '25 HACKATHON
+
+## Connect With Me
+- LinkedIn
+- Email
